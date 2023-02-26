@@ -140,8 +140,8 @@ disp("Hello, World!");
 Research source: <br>
 https://www.python.org/ <br>
 https://www.mathworks.com/ <br>
-https://en.wikipedia.org/wiki/MATLAB <br>
-https://pt.wikipedia.org/wiki/MATLAB 
+https://en.wikipedia.org/ <br>
+https://pt.wikipedia.org/
 
 # About me
 Nayara Cristina Jesus <br>
