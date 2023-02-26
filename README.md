@@ -89,15 +89,6 @@ Elixir is a
 IO.puts("Hello, World!")
 ```
 
-# MATLAB
-MATLAB is 
-
-```MATLAB
-% Hello World in MATLAB
-
-disp("Hello, World!");
-```
-
 # Lua
 Lua is a 
 - **Paradigm:**	
@@ -109,6 +100,19 @@ Lua is a
 -- Hello World in Lua
 
 print("Hello World") 
+```
+
+# MATLAB
+
+**MATLAB (MATrix LABoratory)**
+
+- MATLAB is a programming and numerical **computing platform**.
+- MATLAB é um **programa** para realizar cálculos numéricos com vetores e matrizes.
+
+```MATLAB
+% Hello World in MATLAB
+
+disp("Hello, World!");
 ```
 
  <br> 
