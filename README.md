@@ -16,7 +16,7 @@
 print("Hello, World!")
 ```
 
-# R
+# R (programming language) 
 R is a 
 - **Paradigm:**	
 - **Designed by:**	
@@ -29,7 +29,7 @@ R is a
 print("Hello, World!")
 ```
 
-# Julia
+# JuliaLang
 Julia is a 
 - **Paradigm:**	
 - **Designed by:**	
