@@ -1,7 +1,7 @@
 :construction: *work in progress...*
 
 # About the Languages
-### Python, R, Julia, Scala, Java, Elixir, MATLAB and Lua
+### :books: Python, R, Julia, Scala, Java, Elixir, MATLAB and Lua
 
 # Python
 **Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation.**
