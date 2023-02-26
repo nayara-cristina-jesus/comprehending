@@ -5,9 +5,9 @@
 
 # Python
 **Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation.**
-- **Paradigm:**	Multi-paradigm: object-oriented, procedural (imperative), functional, structured, reflective
-- **Designed by:**	Guido van Rossum
-- **First appeared:**	20 February 1991
+- **Paradigm:**	Multi-paradigm: object-oriented, procedural (imperative), functional, structured, reflective.
+- **Designed by:**	Guido van Rossum.
+- **First appeared:**	20 February 1991.
 - **Documentation:** https://www.python.org/doc/
 
 ```python
