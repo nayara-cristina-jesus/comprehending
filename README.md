@@ -102,12 +102,22 @@ Lua is a
 print("Hello World") 
 ```
 
-# MATLAB
+# MATLAB (MATrix LABoratory)
 
-**MATLAB (MATrix LABoratory)**
+### 1. MATLAB (Programming Language)
+MATLAB is a high-level programming language designed for engineers and scientists that expresses matrix and array mathematics directly.
 
-- MATLAB is a programming and numerical **computing platform**.
-- MATLAB é um **programa** para realizar cálculos numéricos com vetores e matrizes.
+- **Designed by**:	Cleve Moler
+- **Developer**:	MathWorks 
+- **First appeared**: late 1970s
+
+### 2. MATLAB (Software)
+
+MATLAB is a programming and numerical **computing platform**. <br>
+MATLAB é um **programa** para realizar cálculos numéricos com vetores e matrizes.
+
+- **Developer:** MathWorks
+- **Initial release:** 1984
 
 ```MATLAB
 % Hello World in MATLAB
