@@ -104,20 +104,20 @@ print("Hello World")
 
 # MATLAB (MATrix LABoratory)
 
-### 1. MATLAB (Programming Language)
-MATLAB is a high-level programming language designed for engineers and scientists that expresses matrix and array mathematics directly.
-
-- **Designed by**:	Cleve Moler
-- **Developer**:	MathWorks 
-- **First appeared**: late 1970s
-
-### 2. MATLAB (Software)
+### 1. MATLAB (Software)
 
 MATLAB is a programming and numerical **computing platform**. <br>
 MATLAB é um **programa** para realizar cálculos numéricos com vetores e matrizes.
 
 - **Developer:** MathWorks
 - **Initial release:** 1984
+
+### 2. MATLAB (Programming Language)
+MATLAB is a high-level programming language designed for engineers and scientists that expresses matrix and array mathematics directly.
+
+- **Designed by**:	Cleve Moler
+- **Developer**:	MathWorks 
+- **First appeared**: late 1970s
 
 ```MATLAB
 % Hello World in MATLAB
