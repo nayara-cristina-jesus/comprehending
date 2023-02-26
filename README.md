@@ -137,6 +137,11 @@ disp("Hello, World!");
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" alt="lua" width="40" height="40"/>
 </p>
 
+https://www.python.org/doc/ <br>
+https://www.mathworks.com/ <br>
+https://en.wikipedia.org/wiki/MATLAB <br>
+https://pt.wikipedia.org/wiki/MATLAB 
+
 # About me
 Nayara Cristina Jesus <br>
 Computer Science Student <br>
