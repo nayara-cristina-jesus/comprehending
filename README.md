@@ -95,7 +95,7 @@ MATLAB is
 ```MATLAB
 % Hello World in MATLAB
 
-disp("Hello, world!");
+disp("Hello, World!");
 ```
 
 # Lua
