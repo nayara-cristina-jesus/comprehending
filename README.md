@@ -142,11 +142,3 @@ https://www.python.org/ <br>
 https://www.mathworks.com/ <br>
 https://en.wikipedia.org/ <br>
 https://pt.wikipedia.org/
-
-## About me
-Nayara Cristina Jesus <br>
-Computer Science Student <br>
-Data Engineer <br>
-Rio de Janeiro, Brazil <br>
-https://github.com/nayara-cristina-jesus <br>
-https://linkedin.com/in/nayara-cristina-jesus <br>
