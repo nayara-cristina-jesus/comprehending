@@ -3,9 +3,9 @@
 # About the Languages
 ### :books: Python, R, Julia, Scala, Java, Elixir, MATLAB and Lua
 
-# Python
+## Python
 **Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation.**
-- **Paradigm:**	Multi-paradigm: object-oriented, procedural (imperative), functional, structured, reflective.
+- **Paradigm:** object-oriented, procedural (imperative), functional, structured, reflective.
 - **Designed by:**	Guido van Rossum.
 - **First appeared:**	20 February 1991.
 - **Documentation:** https://www.python.org/doc/
@@ -16,7 +16,7 @@
 print("Hello, World!")
 ```
 
-# R 
+## R 
 R is a 
 - **Paradigm:**	
 - **Designed by:**	
@@ -29,7 +29,7 @@ R is a
 print("Hello, World!")
 ```
 
-# Julia
+## Julia
 Julia is a 
 - **Paradigm:**	
 - **Designed by:**	
@@ -42,7 +42,7 @@ Julia is a
 println("Hello, World")
 ```
 
-# Scala
+## Scala
 Scala is a 
 - **Paradigm:**	
 - **Designed by:**	
@@ -59,7 +59,7 @@ object HelloWorld {
 }
 ```
 
-# Java
+## Java
 Java is a 
 - **Paradigm:**	
 - **Designed by:**	
@@ -76,7 +76,7 @@ class HelloWorld {
 }
 ```
 
-# Elixir
+## Elixir
 Elixir is a 
 - **Paradigm:**	
 - **Designed by:**	
@@ -89,7 +89,7 @@ Elixir is a
 IO.puts("Hello, World!")
 ```
 
-# Lua
+## Lua
 Lua is a 
 - **Paradigm:**	
 - **Designed by:**	
@@ -102,7 +102,7 @@ Lua is a
 print("Hello World") 
 ```
 
-# MATLAB (MATrix LABoratory)
+## MATLAB (MATrix LABoratory)
 
 ### 1. MATLAB (Software)
 
@@ -137,13 +137,13 @@ disp("Hello, World!");
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" alt="lua" width="40" height="40"/>
 </p>
 
-# Research source: 
+## Research source 
 https://www.python.org/ <br>
 https://www.mathworks.com/ <br>
 https://en.wikipedia.org/ <br>
 https://pt.wikipedia.org/
 
-# About me
+## About me
 Nayara Cristina Jesus <br>
 Computer Science Student <br>
 Data Engineer <br>
